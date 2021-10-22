@@ -1,6 +1,11 @@
 # cs50-2-readability - Summary
 This is a command line application developed in C# that computes the approximate grade level needed to comprehend some input text. This is an exercise of Harvard's CS50 online course.
 
+# Table of contents
+1. [Readability](#Readability)
+2. [Reading Levels](#Reading-Levels)
+3. [Specification](#Specification)
+
 # Readability
 Implement a program that computes the approximate grade level needed to comprehend some text, per the below.
 ```
